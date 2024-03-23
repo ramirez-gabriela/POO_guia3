@@ -15,7 +15,8 @@ Hacer un programa que pida un carácter e indique si es una vocal o no.
 >
 >
 ### [Ejercicio 4: ](https://github.com/ramirez-gabriela/POO_guia3/blob/main/Ejercicio4_poo.py "Ejercicio 4: ") Programación en Python | Condicionales | Ejercicio 5 - Cajero automático
-Hacer un programa que simule un cajero automático con un saldo inicial de $1000 y tendrá el siguiente menú de opciones: 
+Hacer un programa que simule un cajero automático con un saldo inicial de $1000 y tendrá el siguiente menú de opciones:
+
     1. Ingresar dinero en la cuenta
     2. Retirar dinero de la cuenta
     3. Mostrar dinero disponible
